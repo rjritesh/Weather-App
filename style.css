@@ -1,0 +1,15 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.footer {
+    text-align: center;
+    font-size: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(255, 68, 0, 0.707);
+    padding: 10px 0px;
+    background-color: yellow;
+}
